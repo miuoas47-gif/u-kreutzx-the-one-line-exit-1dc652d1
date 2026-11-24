@@ -1,0 +1,12 @@
+#!/usr/bin/env python3
+"""The One-Line Exit: one funny line, then out the door."""
+
+LINE = "I'm out \u2014 I came for the snacks, stayed for the awkward silence, and I'm leaving before someone asks me to present."
+
+
+def main():
+    print(LINE)
+
+
+if __name__ == "__main__":
+    main()
